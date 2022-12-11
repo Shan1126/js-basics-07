@@ -56,10 +56,10 @@ for(var i = 0; i<10; i++) {
     console.log('Equals : '+i) 
 }
 let aa = 1
-// while(aa < 10) {
-//  console.log('In the while loop: '+aa)
-//  aa++
-// }
+while(aa < 10) {
+ console.log('In the while loop: '+aa)
+ aa++
+}
 
 switch(aa) {
     case 1: console.log(' A value is 1') 
