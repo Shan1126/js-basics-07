@@ -1,10 +1,10 @@
 // let name = 'Shan' // string
 // let age = 10 //number
 // let isHuman = true //boolean
-let names = 'Shan, Adam, Eve, Ram'
+//let names = 'Shan, Adam, Eve, Ram'
 
 //array alwys start with index 0
-//let names = [] 
+let names = [] 
 //console.log(names)
 names = ['Shan', 'Adam', 'Eve', 'Ram', 'Joe', 'Jane', 'Joe'] // string array
 let ages = [10,20,40,56,78,100] // number array
