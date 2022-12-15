@@ -26,7 +26,7 @@ var z1 = x1 + y1 // 3
 
 var z2 = z1-x1; // 2
 
-//console.log('Hello World!')
+console.log('Hello World!')
 
 //console.log(x)
 
